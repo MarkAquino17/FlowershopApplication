@@ -1,2 +1,2 @@
 # FlowershopApplication
-This application will assist the cashier in keeping track of the current count of the flowers and package deals available. 
+This application is a store where customers log-in, select the product they like to purchase, check the availability of the product then show proof of purchase of the customer. 
