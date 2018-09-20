@@ -1,0 +1,11 @@
+REQUIREMENTS:
+
+-The customer must have an account secured with password.
+-The application must have a database for customer accounts.
+-The application must have a database for its product inventory.
+-The application should be able to display/list products being sold.
+-The customer should be able to select the products being sold as well as the quantity available.
+-A confirmation of order could be shown to the customer before s/he proceeds with the transaction.
+-The customer could redo the order if he/she wants to change the order.
+-The application will update the database on the purchase of the customer.
+-The application will record the transaction in a database.
