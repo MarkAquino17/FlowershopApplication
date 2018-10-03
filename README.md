@@ -1,2 +1,6 @@
 # FlowershopApplication
-This application is a store where customers log-in, select the product they like to purchase, check the availability of the product then show proof of purchase of the customer. 
+This application is a store where:
+- customers log-in
+- check available products being sold
+- select the product they like to purchase then move it to their cart and
+- record purchases on the database. 
